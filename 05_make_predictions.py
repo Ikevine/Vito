@@ -79,3 +79,4 @@ cv2.destroyAllWindows()
 
 # Close the database connection
 conn.close()
+ 
